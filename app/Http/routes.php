@@ -12,6 +12,17 @@
 */
 use Illuminate\Http\Request;
 
-Route::get('/', function () {
-    return view('welcome');
+/*
+Routes for the United States
+*/
+
+
+/*
+Routes for Europe
+*/
+
+/*
+Routes for Asia
+*/
+
 });
